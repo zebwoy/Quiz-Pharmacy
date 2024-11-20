@@ -1,0 +1,170 @@
+{
+  "quiz_no": 1,
+  "questions": [
+    {
+      "numb": 1,
+      "question": "Which branch of psychology studies mental processes like thinking and memory?",
+      "answer": "Cognitive Psychology",
+      "options": [
+        "Social Psychology",
+        "Clinical Psychology",
+        "Behavioral Psychology",
+        "Cognitive Psychology"
+      ]
+    },
+    {
+      "numb": 2,
+      "question": "What is the driving force behind human actions called?",
+      "answer": "Motivation",
+      "options": [
+        "Emotions",
+        "Motivation",
+        "Learning",
+        "Behavior"
+      ]
+    },
+    {
+      "numb": 3,
+      "question": "According to Maslow’s hierarchy, which is the highest level of human needs?",
+      "answer": "Self-Actualization",
+      "options": [
+        "Social Needs",
+        "Esteem Needs",
+        "Safety Needs",
+        "Self-Actualization"
+      ]
+    },
+    {
+      "numb": 4,
+      "question": "Which of the following focuses on how people grow and change over their lifespan?",
+      "answer": "Developmental Psychology",
+      "options": [
+        "Behavioral Psychology",
+        "Developmental Psychology",
+        "Cognitive Psychology",
+        "Social Psychology"
+      ]
+    },
+    {
+      "numb": 5,
+      "question": "Who proposed the stages of cognitive development?",
+      "answer": "Jean Piaget",
+      "options": [
+        "Abraham Maslow",
+        "Sigmund Freud",
+        "Jean Piaget",
+        "B.F. Skinner"
+      ]
+    },
+    {
+      "numb": 6,
+      "question": "Which of the following is an example of operant conditioning?",
+      "answer": "Learning through rewards and punishments",
+      "options": [
+        "Unconscious processes",
+        "Observational learning",
+        "Learning through rewards and punishments",
+        "Associating two stimuli"
+      ]
+    },
+    {
+      "numb": 7,
+      "question": "Which emotion is NOT part of Paul Ekman’s basic emotions?",
+      "answer": "Pride",
+      "options": [
+        "Fear",
+        "Disgust",
+        "Happiness",
+        "Pride"
+      ]
+    },
+    {
+      "numb": 8,
+      "question": "What term describes the ability to understand and manage your own and others’ emotions?",
+      "answer": "Emotional Intelligence",
+      "options": [
+        "Motivation",
+        "Emotional Instability",
+        "Empathy",
+        "Emotional Intelligence"
+      ]
+    },
+    {
+      "numb": 9,
+      "question": "Which of these traits is NOT part of the Big Five personality model?",
+      "answer": "Creativity",
+      "options": [
+        "Neuroticism",
+        "Openness",
+        "Conscientiousness",
+        "Creativity"
+      ]
+    },
+    {
+      "numb": 10,
+      "question": "What does the ‘nature’ aspect of the nature vs. nurture debate refer to?",
+      "answer": "Genetic Factors",
+      "options": [
+        "Cultural Influences",
+        "Environmental Factors",
+        "Parenting Style",
+        "Genetic Factors"
+      ]
+    },
+    {
+      "numb": 11,
+      "question": "What is the primary focus of social psychology?",
+      "answer": "Interactions and influence among people",
+      "options": [
+        "Growth across the lifespan",
+        "Neural processes",
+        "Interactions and influence among people",
+        "Individual mental health"
+      ]
+    },
+    {
+      "numb": 12,
+      "question": "Which of the following is a treatment for psychological disorders?",
+      "answer": "Therapy",
+      "options": [
+        "Social Influence",
+        "Personality Assessments",
+        "Motivation Techniques",
+        "Therapy"
+      ]
+    },
+    {
+      "numb": 13,
+      "question": "What does the subconscious mind primarily deal with?",
+      "answer": "Underlying thoughts and feelings",
+      "options": [
+        "Logical reasoning",
+        "Physical sensations",
+        "Underlying thoughts and feelings",
+        "Conscious awareness"
+      ]
+    },
+    {
+      "numb": 14,
+      "question": "What term describes adopting behaviors of a group?",
+      "answer": "Conformity",
+      "options": [
+        "Conformity",
+        "Motivation",
+        "Obedience",
+        "Persuasion"
+      ]
+    },
+    {
+      "numb": 15,
+      "question": "Which of the following is a basic physiological need according to Maslow?",
+      "answer": "Food and Water",
+      "options": [
+        "Social Connections",
+        "Security",
+        "Recognition",
+        "Food and Water"
+      ]
+    }
+  ]
+}
