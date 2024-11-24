@@ -3,167 +3,222 @@
   "questions": [
     {
       "numb": 1,
-      "question": "Which branch of psychology studies mental processes like thinking and memory?",
-      "answer": "Cognitive Psychology",
+      "question": "Which of the following is LEAST likely to be a reason for the rare direct clinical use of APIs?",
+      "answer": "APIs provide a convenient and safe way to deliver accurate doses without additional formulations.",
       "options": [
-        "Social Psychology",
-        "Clinical Psychology",
-        "Behavioral Psychology",
-        "Cognitive Psychology"
+        "APIs can degrade at the site of administration due to factors like low pH.",
+        "APIs often lack the possibility for modification of their pharmacokinetic profile.",
+        "APIs are chemically unstable when exposed to atmospheric conditions like light or oxygen.",
+        "APIs provide a convenient and safe way to deliver accurate doses without additional formulations."
       ]
     },
     {
       "numb": 2,
-      "question": "What is the driving force behind human actions called?",
-      "answer": "Motivation",
+      "question": "If a dosage form is designed to protect the API from gastric acid, what would it most likely be?",
+      "answer": "Enteric-coated tablet",
       "options": [
-        "Emotions",
-        "Motivation",
-        "Learning",
-        "Behavior"
+        "Capsule",
+        "Flavored syrup",
+        "Enteric-coated tablet",
+        "Suspension"
       ]
     },
     {
       "numb": 3,
-      "question": "According to Maslow’s hierarchy, which is the highest level of human needs?",
-      "answer": "Self-Actualization",
+      "question": "Which of the following is NOT a primary function of excipients?",
+      "answer": "Increasing the therapeutic action of the active ingredient",
       "options": [
-        "Social Needs",
-        "Esteem Needs",
-        "Safety Needs",
-        "Self-Actualization"
+        "Binding materials for tablets",
+        "Preservatives for stability",
+        "Sweetening agents for taste masking",
+        "Increasing the therapeutic action of the active ingredient"
       ]
     },
     {
       "numb": 4,
-      "question": "Which of the following focuses on how people grow and change over their lifespan?",
-      "answer": "Developmental Psychology",
+      "question": "What is the primary purpose of a controlled-release tablet?",
+      "answer": "To provide extended drug action",
       "options": [
-        "Behavioral Psychology",
-        "Developmental Psychology",
-        "Cognitive Psychology",
-        "Social Psychology"
+        "To improve taste of the drug",
+        "To provide extended drug action",
+        "To protect the drug from moisture",
+        "To enhance topical application"
       ]
     },
     {
       "numb": 5,
-      "question": "Who proposed the stages of cognitive development?",
-      "answer": "Jean Piaget",
+      "question": "Which of these APIs is LEAST likely to require a dosage form?",
+      "answer": "A drug that is stable, tasteless, and easily administrable in its raw form",
       "options": [
-        "Abraham Maslow",
-        "Sigmund Freud",
-        "Jean Piaget",
-        "B.F. Skinner"
+        "A drug that degrades in stomach acid",
+        "A highly potent drug requiring precise dosing",
+        "A drug with strong odor and taste issues",
+        "A drug that is stable, tasteless, and easily administrable in its raw form"
       ]
     },
     {
       "numb": 6,
-      "question": "Which of the following is an example of operant conditioning?",
-      "answer": "Learning through rewards and punishments",
+      "question": "Which characteristic of APIs makes handling them directly impractical?",
+      "answer": "Low doses like micrograms or picograms make accurate dosing difficult",
       "options": [
-        "Unconscious processes",
-        "Observational learning",
-        "Learning through rewards and punishments",
-        "Associating two stimuli"
+        "Their high solubility in any vehicle",
+        "Low doses like micrograms or picograms make accurate dosing difficult",
+        "They are always odorless and tasteless",
+        "They cannot be chemically degraded"
       ]
     },
     {
       "numb": 7,
-      "question": "Which emotion is NOT part of Paul Ekman’s basic emotions?",
-      "answer": "Pride",
+      "question": "Which dosage form BEST suits a drug that must dissolve slowly in the rectum?",
+      "answer": "Suppository",
       "options": [
-        "Fear",
-        "Disgust",
-        "Happiness",
-        "Pride"
+        "Tablet",
+        "Suppository",
+        "Suspension",
+        "Solution"
       ]
     },
     {
       "numb": 8,
-      "question": "What term describes the ability to understand and manage your own and others’ emotions?",
-      "answer": "Emotional Intelligence",
+      "question": "Why are some APIs coated in capsules or sealed ampules?",
+      "answer": "To protect them from oxygen or moisture",
       "options": [
-        "Motivation",
-        "Emotional Instability",
-        "Empathy",
-        "Emotional Intelligence"
+        "To make them taste better",
+        "To protect them from oxygen or moisture",
+        "To make them dissolve faster",
+        "To allow topical application"
       ]
     },
     {
       "numb": 9,
-      "question": "Which of these traits is NOT part of the Big Five personality model?",
-      "answer": "Creativity",
+      "question": "What is the MAIN difference between excipients and APIs?",
+      "answer": "Excipients do not contribute to the therapeutic action of the drug",
       "options": [
-        "Neuroticism",
-        "Openness",
-        "Conscientiousness",
-        "Creativity"
+        "APIs do not require formulation for administration",
+        "Excipients are the chemical compounds responsible for therapeutic effects",
+        "Excipients do not contribute to the therapeutic action of the drug",
+        "APIs do not require protection from environmental conditions"
       ]
     },
     {
       "numb": 10,
-      "question": "What does the ‘nature’ aspect of the nature vs. nurture debate refer to?",
-      "answer": "Genetic Factors",
+      "question": "What type of dosage form is used for a drug requiring inhalation therapy?",
+      "answer": "Inhalants",
       "options": [
-        "Cultural Influences",
-        "Environmental Factors",
-        "Parenting Style",
-        "Genetic Factors"
+        "Capsules",
+        "Suppositories",
+        "Inhalants",
+        "Suspensions"
       ]
     },
     {
       "numb": 11,
-      "question": "What is the primary focus of social psychology?",
-      "answer": "Interactions and influence among people",
+      "question": "Which dosage form is MOST appropriate for concealing a drug’s odor?",
+      "answer": "Flavored syrups or coated tablets",
       "options": [
-        "Growth across the lifespan",
-        "Neural processes",
-        "Interactions and influence among people",
-        "Individual mental health"
+        "Suspension",
+        "Solution",
+        "Flavored syrups or coated tablets",
+        "Topical creams"
       ]
     },
     {
       "numb": 12,
-      "question": "Which of the following is a treatment for psychological disorders?",
-      "answer": "Therapy",
+      "question": "What is a common reason for formulating a drug into a suspension?",
+      "answer": "The drug is insoluble or unstable in the desired vehicle",
       "options": [
-        "Social Influence",
-        "Personality Assessments",
-        "Motivation Techniques",
-        "Therapy"
+        "The drug is soluble in the vehicle",
+        "The drug needs to remain solid",
+        "The drug is insoluble or unstable in the desired vehicle",
+        "The drug needs a controlled-release mechanism"
       ]
     },
     {
       "numb": 13,
-      "question": "What does the subconscious mind primarily deal with?",
-      "answer": "Underlying thoughts and feelings",
+      "question": "Which ingredient is LEAST likely to be classified as an excipient?",
+      "answer": "An antibiotic added for therapeutic action",
       "options": [
-        "Logical reasoning",
-        "Physical sensations",
-        "Underlying thoughts and feelings",
-        "Conscious awareness"
+        "Flavoring agents",
+        "Binding materials",
+        "An antibiotic added for therapeutic action",
+        "Coloring agents"
       ]
     },
     {
       "numb": 14,
-      "question": "What term describes adopting behaviors of a group?",
-      "answer": "Conformity",
+      "question": "Why might a drug be administered as an implant?",
+      "answer": "To place the drug directly within body tissues",
       "options": [
-        "Conformity",
-        "Motivation",
-        "Obedience",
-        "Persuasion"
+        "To improve taste",
+        "To protect it from light",
+        "To place the drug directly within body tissues",
+        "To allow inhalation"
       ]
     },
     {
       "numb": 15,
-      "question": "Which of the following is a basic physiological need according to Maslow?",
-      "answer": "Food and Water",
+      "question": "Which dosage form is ideal for protecting drugs from gastric acid?",
+      "answer": "Enteric-coated tablets",
       "options": [
-        "Social Connections",
-        "Security",
-        "Recognition",
-        "Food and Water"
+        "Flavored syrups",
+        "Ointments",
+        "Enteric-coated tablets",
+        "Suspensions"
+      ]
+    },
+    {
+      "numb": 16,
+      "question": "Why are liquid dosage forms commonly used?",
+      "answer": "To provide preparation for substances soluble in a desired vehicle",
+      "options": [
+        "To ensure all drugs taste better",
+        "To eliminate the need for API",
+        "To provide preparation for substances soluble in a desired vehicle",
+        "To make all drugs topical"
+      ]
+    },
+    {
+      "numb": 17,
+      "question": "Which of these dosage forms provides extended drug action?",
+      "answer": "Controlled-release tablets",
+      "options": [
+        "Flavored syrups",
+        "Controlled-release tablets",
+        "Suppositories",
+        "Suspensions"
+      ]
+    },
+    {
+      "numb": 18,
+      "question": "Which of the following BEST explains why APIs are not directly used clinically?",
+      "answer": "They may be unstable, impractical to administer, or require precise dosing",
+      "options": [
+        "They can easily dissolve in any vehicle",
+        "They do not require formulation changes",
+        "They may be unstable, impractical to administer, or require precise dosing",
+        "They always taste pleasant"
+      ]
+    },
+    {
+      "numb": 19,
+      "question": "Which of these dosage forms would MOST likely provide drug action through topical application?",
+      "answer": "Ointments or creams",
+      "options": [
+        "Enteric-coated tablets",
+        "Suspensions",
+        "Ointments or creams",
+        "Inhalants"
+      ]
+    },
+    {
+      "numb": 20,
+      "question": "What is the MAIN reason APIs are combined with excipients?",
+      "answer": "To facilitate administration and improve drug stability or usability",
+      "options": [
+        "To increase pharmacological effects",
+        "To ensure they degrade faster",
+        "To facilitate administration and improve drug stability or usability",
+        "To make the drug cheaper"
       ]
     }
   ]
