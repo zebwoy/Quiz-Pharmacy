@@ -60,11 +60,11 @@ continue_btn.onclick = () => {
     quiz_box.classList.add("activeQuiz"); //show quiz box
     showQuestions(0); //calling showQestions function
     queCounter(1); //passing 1 parameter to queCounter
-    startTimer(30); //calling startTimer function
+    startTimer(40); //calling startTimer function
     startTimerLine(0); //calling startTimerLine function
 }
 
-let timeValue = 30;
+let timeValue = 40;
 let que_count = 0;
 let que_numb = 1;
 let userScore = 0;
@@ -79,7 +79,7 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 restart_quiz.onclick = () => {
     quiz_box.classList.add("activeQuiz"); //show quiz box
     result_box.classList.remove("activeResult"); //hide result box
-    timeValue = 30;
+    timeValue = 40;
     que_count = 0;
     que_numb = 1;
     userScore = 0;
