@@ -1,224 +1,224 @@
 {
-  "quiz_no": 1,
+  "quiz_no": 2,
   "questions": [
     {
       "numb": 1,
-      "question": "Which of the following is LEAST likely to be a reason for the rare direct clinical use of APIs?",
-      "answer": "APIs provide a convenient and safe way to deliver accurate doses without additional formulations.",
+      "question": "Which of the following dosage forms is LEAST likely to be classified as a monophasic liquid dosage form?",
+      "answer": "Emulsions",
       "options": [
-        "APIs can degrade at the site of administration due to factors like low pH.",
-        "APIs often lack the possibility for modification of their pharmacokinetic profile.",
-        "APIs are chemically unstable when exposed to atmospheric conditions like light or oxygen.",
-        "APIs provide a convenient and safe way to deliver accurate doses without additional formulations."
+        "Syrups",
+        "Tinctures",
+        "Elixirs",
+        "Emulsions"
       ]
     },
     {
       "numb": 2,
-      "question": "If a dosage form is designed to protect the API from gastric acid, what would it most likely be?",
-      "answer": "Enteric-coated tablet",
+      "question": "Which route of administration does NOT include tablets as a dosage form?",
+      "answer": "Topical",
       "options": [
-        "Capsule",
-        "Flavored syrup",
-        "Enteric-coated tablet",
-        "Suspension"
+        "Oral",
+        "Topical",
+        "Enteral",
+        "Sublingual"
       ]
     },
     {
       "numb": 3,
-      "question": "Which of the following is NOT a primary function of excipients?",
-      "answer": "Increasing the therapeutic action of the active ingredient",
+      "question": "Which of these dosage forms is MOST LIKELY used for respiratory administration?",
+      "answer": "Dry Powder Inhaler (DPI)",
       "options": [
-        "Binding materials for tablets",
-        "Preservatives for stability",
-        "Sweetening agents for taste masking",
-        "Increasing the therapeutic action of the active ingredient"
+        "Capsules",
+        "Ointment",
+        "Dry Powder Inhaler (DPI)",
+        "Oral spray"
       ]
     },
     {
       "numb": 4,
-      "question": "What is the primary purpose of a controlled-release tablet?",
-      "answer": "To provide extended drug action",
+      "question": "Which classification of dosage forms would you NOT expect to find under solid dosage forms?",
+      "answer": "Lotions",
       "options": [
-        "To improve taste of the drug",
-        "To provide extended drug action",
-        "To protect the drug from moisture",
-        "To enhance topical application"
+        "Tablets",
+        "Capsules",
+        "Implants",
+        "Lotions"
       ]
     },
     {
       "numb": 5,
-      "question": "Which of these APIs is LEAST likely to require a dosage form?",
-      "answer": "A drug that is stable, tasteless, and easily administrable in its raw form",
+      "question": "If a drug is administered through the rectal route, which of the following dosage forms is LEAST appropriate?",
+      "answer": "Patches",
       "options": [
-        "A drug that degrades in stomach acid",
-        "A highly potent drug requiring precise dosing",
-        "A drug with strong odor and taste issues",
-        "A drug that is stable, tasteless, and easily administrable in its raw form"
+        "Ointments",
+        "Suppositories",
+        "Nutrient enemas",
+        "Patches"
       ]
     },
     {
       "numb": 6,
-      "question": "Which characteristic of APIs makes handling them directly impractical?",
-      "answer": "Low doses like micrograms or picograms make accurate dosing difficult",
+      "question": "Which of the following is NOT a biphasic liquid dosage form?",
+      "answer": "Syrup",
       "options": [
-        "Their high solubility in any vehicle",
-        "Low doses like micrograms or picograms make accurate dosing difficult",
-        "They are always odorless and tasteless",
-        "They cannot be chemically degraded"
+        "Emulsion",
+        "Suspension",
+        "Syrup",
+        "Liniment"
       ]
     },
     {
       "numb": 7,
-      "question": "Which dosage form BEST suits a drug that must dissolve slowly in the rectum?",
-      "answer": "Suppository",
+      "question": "Transdermal patches would NOT fall under which route of administration?",
+      "answer": "Parenteral",
       "options": [
-        "Tablet",
-        "Suppository",
-        "Suspension",
-        "Solution"
+        "Percutaneous",
+        "Parenteral",
+        "Topical",
+        "Dermal"
       ]
     },
     {
       "numb": 8,
-      "question": "Why are some APIs coated in capsules or sealed ampules?",
-      "answer": "To protect them from oxygen or moisture",
+      "question": "Which dosage form is LEAST likely to involve mucosal administration?",
+      "answer": "Pressurized Metered Dose Inhaler (pMDI)",
       "options": [
-        "To make them taste better",
-        "To protect them from oxygen or moisture",
-        "To make them dissolve faster",
-        "To allow topical application"
+        "Eye drops",
+        "Hydrogel",
+        "Pressurized Metered Dose Inhaler (pMDI)",
+        "Mucoadhesive microdisc"
       ]
     },
     {
       "numb": 9,
-      "question": "What is the MAIN difference between excipients and APIs?",
-      "answer": "Excipients do not contribute to the therapeutic action of the drug",
+      "question": "Which route of administration is MOST LIKELY to utilize aerosols?",
+      "answer": "Respiratory",
       "options": [
-        "APIs do not require formulation for administration",
-        "Excipients are the chemical compounds responsible for therapeutic effects",
-        "Excipients do not contribute to the therapeutic action of the drug",
-        "APIs do not require protection from environmental conditions"
+        "Oral",
+        "Respiratory",
+        "Rectal",
+        "Sublingual"
       ]
     },
     {
       "numb": 10,
-      "question": "What type of dosage form is used for a drug requiring inhalation therapy?",
-      "answer": "Inhalants",
+      "question": "Which of these is NOT classified as a gaseous dosage form?",
+      "answer": "Suppository",
       "options": [
-        "Capsules",
-        "Suppositories",
-        "Inhalants",
-        "Suspensions"
+        "Aerosol",
+        "Inhalation anesthetic",
+        "Antiasthmatic spray",
+        "Suppository"
       ]
     },
     {
       "numb": 11,
-      "question": "Which dosage form is MOST appropriate for concealing a drug’s odor?",
-      "answer": "Flavored syrups or coated tablets",
+      "question": "Which of the following dosage forms is NOT typically biphasic?",
+      "answer": "Elixir",
       "options": [
         "Suspension",
-        "Solution",
-        "Flavored syrups or coated tablets",
-        "Topical creams"
+        "Emulsion",
+        "Liniment",
+        "Elixir"
       ]
     },
     {
       "numb": 12,
-      "question": "What is a common reason for formulating a drug into a suspension?",
-      "answer": "The drug is insoluble or unstable in the desired vehicle",
+      "question": "Which statement about monophasic liquid dosage forms is INCORRECT?",
+      "answer": "They include emulsions as an example.",
       "options": [
-        "The drug is soluble in the vehicle",
-        "The drug needs to remain solid",
-        "The drug is insoluble or unstable in the desired vehicle",
-        "The drug needs a controlled-release mechanism"
+        "They are homogeneous systems.",
+        "They include emulsions as an example.",
+        "Tinctures are monophasic.",
+        "They may contain active drug dissolved in a single-phase solution."
       ]
     },
     {
       "numb": 13,
-      "question": "Which ingredient is LEAST likely to be classified as an excipient?",
-      "answer": "An antibiotic added for therapeutic action",
+      "question": "Which dosage form would you LEAST expect in the parenteral route?",
+      "answer": "Ointments",
       "options": [
-        "Flavoring agents",
-        "Binding materials",
-        "An antibiotic added for therapeutic action",
-        "Coloring agents"
+        "Intravenous solutions",
+        "Intramuscular injections",
+        "Subcutaneous injections",
+        "Ointments"
       ]
     },
     {
       "numb": 14,
-      "question": "Why might a drug be administered as an implant?",
-      "answer": "To place the drug directly within body tissues",
+      "question": "Which of the following is NOT used for enteral administration?",
+      "answer": "Topical cream",
       "options": [
-        "To improve taste",
-        "To protect it from light",
-        "To place the drug directly within body tissues",
-        "To allow inhalation"
+        "Capsules",
+        "Syrups",
+        "Orally disintegrating tablets",
+        "Topical cream"
       ]
     },
     {
       "numb": 15,
-      "question": "Which dosage form is ideal for protecting drugs from gastric acid?",
-      "answer": "Enteric-coated tablets",
+      "question": "Which of the following is NOT a classification of dosage forms based on physical form?",
+      "answer": "Dermal patch",
       "options": [
-        "Flavored syrups",
-        "Ointments",
-        "Enteric-coated tablets",
-        "Suspensions"
+        "Solid",
+        "Liquid",
+        "Semi-solid",
+        "Dermal patch"
       ]
     },
     {
       "numb": 16,
-      "question": "Why are liquid dosage forms commonly used?",
-      "answer": "To provide preparation for substances soluble in a desired vehicle",
+      "question": "Which type of dosage form is LEAST appropriate for direct systemic absorption?",
+      "answer": "Liniments",
       "options": [
-        "To ensure all drugs taste better",
-        "To eliminate the need for API",
-        "To provide preparation for substances soluble in a desired vehicle",
-        "To make all drugs topical"
+        "Orally disintegrating tablets",
+        "Transdermal patches",
+        "Liniments",
+        "Sublingual sprays"
       ]
     },
     {
       "numb": 17,
-      "question": "Which of these dosage forms provides extended drug action?",
-      "answer": "Controlled-release tablets",
+      "question": "Which of the following dosage forms is MOST LIKELY used in vaginal administration?",
+      "answer": "Pessaries",
       "options": [
-        "Flavored syrups",
-        "Controlled-release tablets",
-        "Suppositories",
-        "Suspensions"
-      ]
-    },
-    {
-      "numb": 18,
-      "question": "Which of the following BEST explains why APIs are not directly used clinically?",
-      "answer": "They may be unstable, impractical to administer, or require precise dosing",
-      "options": [
-        "They can easily dissolve in any vehicle",
-        "They do not require formulation changes",
-        "They may be unstable, impractical to administer, or require precise dosing",
-        "They always taste pleasant"
-      ]
-    },
-    {
-      "numb": 19,
-      "question": "Which of these dosage forms would MOST likely provide drug action through topical application?",
-      "answer": "Ointments or creams",
-      "options": [
-        "Enteric-coated tablets",
-        "Suspensions",
-        "Ointments or creams",
+        "Eye drops",
+        "Pessaries",
+        "Capsules",
         "Inhalants"
       ]
     },
     {
-      "numb": 20,
-      "question": "What is the MAIN reason APIs are combined with excipients?",
-      "answer": "To facilitate administration and improve drug stability or usability",
+      "numb": 18,
+      "question": "Which of these is NOT commonly found in liquid dosage forms?",
+      "answer": "Powders",
       "options": [
-        "To increase pharmacological effects",
-        "To ensure they degrade faster",
-        "To facilitate administration and improve drug stability or usability",
-        "To make the drug cheaper"
+        "Syrups",
+        "Elixirs",
+        "Powders",
+        "Tinctures"
+      ]
+    },
+    {
+      "numb": 19,
+      "question": "Which characteristic is NOT typical of semi-solid dosage forms?",
+      "answer": "They are exclusively used for respiratory routes.",
+      "options": [
+        "They include creams and ointments.",
+        "They are exclusively used for respiratory routes.",
+        "They are applied topically.",
+        "They are generally biphasic."
+      ]
+    },
+    {
+      "numb": 20,
+      "question": "Which route of administration is LEAST likely to involve solutions?",
+      "answer": "Percutaneous",
+      "options": [
+        "Oral",
+        "Topical",
+        "Parenteral",
+        "Percutaneous"
       ]
     }
   ]
