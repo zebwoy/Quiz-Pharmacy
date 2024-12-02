@@ -1,174 +1,86 @@
 {
-  "quiz_no": 2,
+  "quiz_no": 3,
   "questions": [
     {
       "numb": 1,
-      "question": "Which of the following dosage forms is LEAST likely to be classified as a monophasic liquid dosage form?",
-      "answer": "Emulsions",
+      "question": "Which dosage form is NOT used for enteral administration despite being orally ingested?",
+      "answer": "Sublingual lozenges",
       "options": [
+        "Capsules",
+        "Sublingual lozenges",
         "Syrups",
-        "Tinctures",
-        "Elixirs",
-        "Emulsions"
+        "Suspensions"
       ]
     },
     {
       "numb": 2,
-      "question": "Which route of administration does NOT include tablets as a dosage form?",
-      "answer": "Topical",
+      "question": "Which route of administration would LEAST likely involve a monophasic liquid dosage form?",
+      "answer": "Rectal",
       "options": [
         "Oral",
-        "Topical",
-        "Enteral",
-        "Sublingual"
+        "Parenteral",
+        "Rectal",
+        "Topical"
       ]
     },
     {
       "numb": 3,
-      "question": "Which of these dosage forms is MOST LIKELY used for respiratory administration?",
-      "answer": "Dry Powder Inhaler (DPI)",
+      "question": "Which of the following dosage forms does NOT match its associated route of administration?",
+      "answer": "Dermal patch for respiratory therapy",
       "options": [
-        "Capsules",
-        "Ointment",
-        "Dry Powder Inhaler (DPI)",
-        "Oral spray"
+        "Suppository for rectal administration",
+        "Orally disintegrating tablet for sublingual absorption",
+        "Dermal patch for respiratory therapy",
+        "Eye drops for mucosal application"
       ]
     },
     {
       "numb": 4,
-      "question": "Which classification of dosage forms would you NOT expect to find under solid dosage forms?",
-      "answer": "Lotions",
+      "question": "Which dosage form is LEAST likely to require biphasic liquid preparation?",
+      "answer": "Tinctures",
       "options": [
-        "Tablets",
-        "Capsules",
-        "Implants",
-        "Lotions"
+        "Emulsions",
+        "Suspensions",
+        "Liniments",
+        "Tinctures"
       ]
     },
     {
       "numb": 5,
-      "question": "If a drug is administered through the rectal route, which of the following dosage forms is LEAST appropriate?",
-      "answer": "Patches",
+      "question": "Which of these dosage forms is MOST LIKELY used to bypass first-pass metabolism?",
+      "answer": "Sublingual spray",
       "options": [
-        "Ointments",
-        "Suppositories",
-        "Nutrient enemas",
-        "Patches"
+        "Capsules",
+        "Sublingual spray",
+        "Suspensions",
+        "Topical ointment"
       ]
     },
     {
       "numb": 6,
-      "question": "Which of the following is NOT a biphasic liquid dosage form?",
-      "answer": "Syrup",
+      "question": "Which classification would you NOT associate with semi-solid dosage forms?",
+      "answer": "Powders",
       "options": [
-        "Emulsion",
-        "Suspension",
-        "Syrup",
-        "Liniment"
+        "Creams",
+        "Pessaries",
+        "Powders",
+        "Gels"
       ]
     },
     {
       "numb": 7,
-      "question": "Transdermal patches would NOT fall under which route of administration?",
-      "answer": "Parenteral",
+      "question": "Which of the following dosage forms would NOT be suitable for mucosal application?",
+      "answer": "Lotions",
       "options": [
-        "Percutaneous",
-        "Parenteral",
-        "Topical",
-        "Dermal"
+        "Nasal spray",
+        "Eye drops",
+        "Hydrogel",
+        "Lotions"
       ]
     },
     {
       "numb": 8,
-      "question": "Which dosage form is LEAST likely to involve mucosal administration?",
-      "answer": "Pressurized Metered Dose Inhaler (pMDI)",
-      "options": [
-        "Eye drops",
-        "Hydrogel",
-        "Pressurized Metered Dose Inhaler (pMDI)",
-        "Mucoadhesive microdisc"
-      ]
-    },
-    {
-      "numb": 9,
-      "question": "Which route of administration is MOST LIKELY to utilize aerosols?",
-      "answer": "Respiratory",
-      "options": [
-        "Oral",
-        "Respiratory",
-        "Rectal",
-        "Sublingual"
-      ]
-    },
-    {
-      "numb": 10,
-      "question": "Which of these is NOT classified as a gaseous dosage form?",
-      "answer": "Suppository",
-      "options": [
-        "Aerosol",
-        "Inhalation anesthetic",
-        "Antiasthmatic spray",
-        "Suppository"
-      ]
-    },
-    {
-      "numb": 11,
-      "question": "Which of the following dosage forms is NOT typically biphasic?",
-      "answer": "Elixir",
-      "options": [
-        "Suspension",
-        "Emulsion",
-        "Liniment",
-        "Elixir"
-      ]
-    },
-    {
-      "numb": 12,
-      "question": "Which statement about monophasic liquid dosage forms is INCORRECT?",
-      "answer": "They include emulsions as an example.",
-      "options": [
-        "They are homogeneous systems.",
-        "They include emulsions as an example.",
-        "Tinctures are monophasic.",
-        "They may contain active drug dissolved in a single-phase solution."
-      ]
-    },
-    {
-      "numb": 13,
-      "question": "Which dosage form would you LEAST expect in the parenteral route?",
-      "answer": "Ointments",
-      "options": [
-        "Intravenous solutions",
-        "Intramuscular injections",
-        "Subcutaneous injections",
-        "Ointments"
-      ]
-    },
-    {
-      "numb": 14,
-      "question": "Which of the following is NOT used for enteral administration?",
-      "answer": "Topical cream",
-      "options": [
-        "Capsules",
-        "Syrups",
-        "Orally disintegrating tablets",
-        "Topical cream"
-      ]
-    },
-    {
-      "numb": 15,
-      "question": "Which of the following is NOT a classification of dosage forms based on physical form?",
-      "answer": "Dermal patch",
-      "options": [
-        "Solid",
-        "Liquid",
-        "Semi-solid",
-        "Dermal patch"
-      ]
-    },
-    {
-      "numb": 16,
-      "question": "Which type of dosage form is LEAST appropriate for direct systemic absorption?",
+      "question": "Which dosage form is LEAST likely used for systemic absorption?",
       "answer": "Liniments",
       "options": [
         "Orally disintegrating tablets",
@@ -178,47 +90,80 @@
       ]
     },
     {
-      "numb": 17,
-      "question": "Which of the following dosage forms is MOST LIKELY used in vaginal administration?",
-      "answer": "Pessaries",
+      "numb": 9,
+      "question": "Which of the following is NOT a gaseous dosage form?",
+      "answer": "Suppositories",
       "options": [
-        "Eye drops",
-        "Pessaries",
-        "Capsules",
-        "Inhalants"
+        "Inhalants",
+        "Volatile anesthetics",
+        "Antiasthmatic sprays",
+        "Suppositories"
       ]
     },
     {
-      "numb": 18,
-      "question": "Which of these is NOT commonly found in liquid dosage forms?",
-      "answer": "Powders",
+      "numb": 10,
+      "question": "Which of the following is INCORRECT about biphasic liquid dosage forms?",
+      "answer": "They include monophasic solutions like syrups.",
       "options": [
-        "Syrups",
-        "Elixirs",
-        "Powders",
-        "Tinctures"
+        "They are typically heterogeneous systems.",
+        "They include emulsions and suspensions.",
+        "They are not as stable as monophasic forms.",
+        "They include monophasic solutions like syrups."
       ]
     },
     {
-      "numb": 19,
-      "question": "Which characteristic is NOT typical of semi-solid dosage forms?",
-      "answer": "They are exclusively used for respiratory routes.",
+      "numb": 11,
+      "question": "Which dosage form is LEAST likely to be delivered via parenteral route?",
+      "answer": "Transdermal patches",
       "options": [
-        "They include creams and ointments.",
-        "They are exclusively used for respiratory routes.",
-        "They are applied topically.",
-        "They are generally biphasic."
+        "Intravenous solutions",
+        "Subcutaneous injections",
+        "Intramuscular infusions",
+        "Transdermal patches"
       ]
     },
     {
-      "numb": 20,
-      "question": "Which route of administration is LEAST likely to involve solutions?",
-      "answer": "Percutaneous",
+      "numb": 12,
+      "question": "Which route of administration does NOT involve biphasic dosage forms?",
+      "answer": "Ophthalmic",
       "options": [
         "Oral",
-        "Topical",
+        "Ophthalmic",
         "Parenteral",
-        "Percutaneous"
+        "Respiratory"
+      ]
+    },
+    {
+      "numb": 13,
+      "question": "Which of the following dosage forms does NOT align with its route of administration?",
+      "answer": "Liniment for vaginal use",
+      "options": [
+        "Suppository for rectal use",
+        "Liniment for vaginal use",
+        "Eye drops for ophthalmic use",
+        "Ointment for topical use"
+      ]
+    },
+    {
+      "numb": 14,
+      "question": "Which characteristic of semi-solid dosage forms is INCORRECT?",
+      "answer": "They are exclusively used for respiratory administration.",
+      "options": [
+        "They include creams and gels.",
+        "They are generally biphasic systems.",
+        "They are exclusively used for respiratory administration.",
+        "They are applied topically."
+      ]
+    },
+    {
+      "numb": 15,
+      "question": "Which dosage form is LEAST suitable for direct systemic action through percutaneous administration?",
+      "answer": "Medicated shampoo",
+      "options": [
+        "Transdermal patch",
+        "Medicated shampoo",
+        "Ointment",
+        "Cream"
       ]
     }
   ]
